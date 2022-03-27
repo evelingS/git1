@@ -1,6 +1,5 @@
-git clean -dff
+git clean -df
 
 
-
--d					directories 폴더
-ff 					force force
+-d					remove whole directories
+-f 					force
