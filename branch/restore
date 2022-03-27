@@ -1,0 +1,6 @@
+git restore .
+
+
+
+
+git restore <path_to_submodule_foler> --recurse-submodules

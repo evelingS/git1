@@ -1,0 +1,2 @@
+git switch <other_branch>
+git switch -c <new_branch>

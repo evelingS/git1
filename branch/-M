@@ -1,0 +1,5 @@
+git branch -M main										move/rename a branch, even if target exists
+
+
+git branch -m <new_branch_name> 						rename current branch and its reflog
+git branch -m <oldbranchname> <newbranchname>			move/rename a branch and its reflog

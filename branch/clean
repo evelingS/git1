@@ -1,0 +1,6 @@
+git clean -dff
+
+
+
+-d					directories 폴더
+ff 					force force

@@ -1,0 +1,15 @@
+git branch <new-branch-name>
+git branch <foldername>/<new_branch_name>
+
+git branch sub
+git branch folder/sub
+
+***
+git branch <new-branch-name> <past branch commit Hash>
+
+
+git branch -a							list both remote-tracking and local branches
+
+
+git branch
+git branch --all						list both remote-tracking and local branches

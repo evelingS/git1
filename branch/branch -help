@@ -1,0 +1,21 @@
+git branch -help
+
+git branch -l
+git branch --list
+
+git branch --show-current				show current branch name
+
+
+    -d, --delete          delete fully merged branch
+    
+    -m, --move            move/rename a branch and its reflog
+    -M                    move/rename a branch, even if target exists
+    -c, --copy            copy a branch and its reflog
+    -C                    copy a branch, even if target exists
+
+
+    --create-reflog       create the branch's reflog
+
+git remote add origin https://github.com/Sychilla/Go.git	// 깃허브에 올리기
+git push -u origin main										//push
+

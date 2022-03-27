@@ -1,0 +1,8 @@
+git add -help
+
+git add .
+
+git add <file_name>
+
+git add -A
+git add --all

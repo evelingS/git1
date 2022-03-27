@@ -1,0 +1,5 @@
+git branch -D <branch-name>                delete branch (even if not merged)
+
+
+git branch -d <branch_name>					delete fully merged branch
+git branch --delete <branch_name>			delete fully merged branch
