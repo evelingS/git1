@@ -1,5 +1,5 @@
 git clean -df
-
+git clean -dff
 
 -d					remove whole directories
 -f 					force
